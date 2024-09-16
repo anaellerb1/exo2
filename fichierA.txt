@@ -1,2 +1,3 @@
 Voici le fichier A
 Modification 1
+Ceci est une modification locale
